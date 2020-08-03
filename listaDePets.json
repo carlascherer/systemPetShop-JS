@@ -1,0 +1,12 @@
+[
+    {
+        "nome": "Lolla",
+        "idade": "3",
+        "raca": "vira-lata",
+        "sexo": "F",
+        "cuidador": "Carla",
+        "castrado": true,
+        "vacinado": false,
+        "rga": 123
+    }
+]
