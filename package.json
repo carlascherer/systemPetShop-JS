@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/carlascherer/systemPetShop-JS#readme",
   "dependencies": {
-    "file-system": "^2.2.2"
+    "file-system": "^2.2.2",
+    "nodemon": "^2.0.4"
   }
 }
